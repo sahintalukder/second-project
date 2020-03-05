@@ -1,0 +1,53 @@
+bobody{
+
+	margin: 0;
+	width: 800px;
+}
+div{
+
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 25px;
+}
+.bluecolor{
+	color: blue;
+
+}
+.redcolor{
+	color: red;
+
+}
+.greencolor{
+	color: green;
+
+}
+.yellowcolor{
+	color: #b9b906;
+
+}
+.first{
+
+	font-size: 30px;
+	font-style: unset;
+	text-align: initial;
+	line-height: 1;
+}
+.second{
+
+	text-align: justify;
+}
+.third{
+
+	padding: 100px;
+	font-size: 50px;
+	background-color: #0a9f36a8;
+}
+.firstimage{
+
+}
+.secondimage{
+	
+	width: 100%;
+}
