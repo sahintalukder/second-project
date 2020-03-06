@@ -37,12 +37,17 @@ div{
 .second{
 
 	text-align: justify;
+	font-color:grey;
+	color: grey;
 }
 .third{
 
 	padding: 100px;
-	font-size: 50px;
+	font-size: 60px;
 	background-color: #0a9f36a8;
+
+	color: #f7f4f4;
+	/*! font-style: ; */
 }
 .firstimage{
 
